@@ -63,21 +63,18 @@ Sou proficiente na criação de soluções digitais diversas, sempre com foco em
 
 Aqui estão algumas estatísticas do meu GitHub que mostram minha atividade e paixão por código. Observe como essas "animações" interagem com meus commits e contribuições, se atualizando automaticamente!
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dark&hide_border=true&card_width=490&custom_title=Minhas%20Estatísticas%20GitHub)](https://github.com/anuraghazra/github-readme-stats)
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=thatstoms-projects&show_icons=true&theme=dark&hide_border=true&card_width=490&custom_title=Minhas%20Estatísticas%20GitHub)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=synthwave&hide_border=true&card_width=490&custom_title=Top%20Linguagens%20(%20JavaScript%20&%20Mais!))](https://github.com/anuraghazra/github-readme-stats)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ThatsTom&layout=compact&theme=synthwave&hide_border=true&card_width=490&custom_title=Top%20Linguagens%20(%20JavaScript%20&%20Mais!))](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-profile-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-profile-streak-stats.herokuapp.com/?user=ThatsTom&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
 ## <span style="color: #9370DB;">✉️ Vamos Conectar!</span>
 
 Estou sempre aberto a novas oportunidades, colaborações e discussões sobre tecnologia. Sinta-se à vontade para me contatar:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_LINKEDIN/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU_USERNAME)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL@example.com)
-[![Seu Site/Portfólio (Opcional)](https://img.shields.io/badge/Portfólio-306998?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://www.SEU_SITE.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThatsTom)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thomas_holanda@yahoo.com.br)
 
 ---
