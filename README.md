@@ -59,26 +59,3 @@ Ao longo da minha carreira, tive a oportunidade de desenvolver uma variedade de 
 * **Tráfego Pago e Desempenho:** Entendo a importância de um site otimizado para o sucesso de campanhas de tráfego pago, garantindo que a arquitetura e a performance colaborem para altas taxas de conversão.
 
 ---
-
-## <span style="color: #8A2BE2;">📊 Minha Jornada e Atividade no GitHub</span>
-
-Compartilho um pouco da minha atividade no GitHub, que reflete meu comprometimento e paixão por codificar. Essas visualizações se atualizam automaticamente, mostrando minha jornada e contribuições:
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ThatsTom&theme=react&hide_border=true)](https://github.com/ashishdotme/github-readme-activity-graph)
-
-[![GitHub Streak](https://github-profile-streak-stats.herokuapp.com/?user=ThatsTom&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ThatsTom&show_icons=true&theme=dark&hide_border=true&card_width=490&custom_title=Minhas%20Estatísticas%20GitHub)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ThatsTom&layout=compact&theme=synthwave&hide_border=true&card_width=490&custom_title=Top%20Linguagens%20(%20JavaScript%20&%20Mais!))](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-## <span style="color: #9370DB;">✉️ Vamos Conectar!</span>
-
-Sempre busco novas oportunidades para aprender, colaborar e contribuir com projetos interessantes. Se você tem alguma ideia, desafio ou simplesmente quer trocar uma conversa sobre tecnologia, sinta-se à vontade para me contatar:
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThatsTom)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thomas_holanda@yahoo.com.br)
-
----
