@@ -63,18 +63,39 @@ Sou proficiente na criação de soluções digitais diversas, sempre com foco em
 
 Aqui estão algumas estatísticas do meu GitHub que mostram minha atividade e paixão por código. Observe como essas "animações" interagem com meus commits e contribuições, se atualizando automaticamente!
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=thatstoms-projects&show_icons=true&theme=dark&hide_border=true&card_width=490&custom_title=Minhas%20Estatísticas%20GitHub)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ThatsTom&theme=react&hide_border=true)](https://github.com/ashishdotme/github-readme-activity-graph)
+
+[![GitHub Streak](https://github-profile-streak-stats.herokuapp.com/?user=ThatsTom&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ThatsTom&show_icons=true&theme=dark&hide_border=true&card_width=490&custom_title=Minhas%20Estatísticas%20GitHub)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ThatsTom&layout=compact&theme=synthwave&hide_border=true&card_width=490&custom_title=Top%20Linguagens%20(%20JavaScript%20&%20Mais!))](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-profile-streak-stats.herokuapp.com/?user=ThatsTom&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
+---
+
+## <span style="color: #FF00FF;">💡 Projetos de Destaque</span>
+
+Confira alguns dos meus projetos que demonstram minhas habilidades Full Stack:
+
+* **[Nome do Projeto 1 - Ex: E-commerce de Calçados](Link_para_o_Projeto_1)**
+    * **Descrição:** Um e-commerce completo construído com **React**, **Next.js** (SSR), **Express.js** para a API e **MongoDB** para o banco de dados. Conta com carrinho de compras, sistema de pagamentos e painel administrativo.
+    * **Destaques:** Otimização para SEO, performance (Lighthouse > 90), e UI/UX focado em conversão.
+* **[Nome do Projeto 2 - Ex: Intranet Corporativa](Link_para_o_Projeto_2)**
+    * **Descrição:** Plataforma interna para [Nome da Empresa Fictícia] desenvolvida com **React** para o frontend e **Node.js/Express.js** + **PostgreSQL** no backend. Gerencia [módulos específicos, ex: documentos, eventos, comunicação interna].
+    * **Destaques:** Segurança, performance em rede interna e interface amigável.
+* **[Nome do Projeto 3 - Ex: Landing Page para Campanha de Tráfego Pago](Link_para_o_Projeto_3)**
+    * **Descrição:** Landing page otimizada para uma campanha de marketing digital, utilizando **React** (com foco em componentização e carregamento rápido) e integração com ferramentas de análise de tráfego.
+    * **Destaques:** Altíssima velocidade de carregamento, design responsivo e foco em uma única chamada para ação com excelentes taxas de conversão.
 
 ---
 
 ## <span style="color: #9370DB;">✉️ Vamos Conectar!</span>
 
 Estou sempre aberto a novas oportunidades, colaborações e discussões sobre tecnologia. Sinta-se à vontade para me contatar:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_LINKEDIN/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThatsTom)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thomas_holanda@yahoo.com.br)
+[![Seu Site/Portfólio (Opcional)](https://img.shields.io/badge/Portfólio-306998?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://www.SEU_SITE.com)
 
 ---
