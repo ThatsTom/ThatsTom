@@ -1,10 +1,9 @@
-
 # <span style="color: #61DAFB;">&lt;Desenvolvedor Full Stack JavaScript /&gt;</span>
 ### <span style="color: #FF69B4;">Construindo Soluções Digitais com Paixão e Dedicação</span>
 
 ---
 
-## <span style="color: #00FFFF;">✨ Bem vindos ao meu perfil ✨</span>
+## <span style="color: #00FFFF;">✨ Bem vindos! ✨</span>
 
 Olá! Eu sou o Tom, um **Desenvolvedor Full Stack JavaScript** entusiasmado em criar aplicações que resolvam desafios e tragam valor. Cada projeto é uma oportunidade para aprender, colaborar e construir soluções robustas e eficientes.
 
@@ -26,8 +25,9 @@ Minha experiência em JavaScript me permite atuar em toda a stack, focando na fl
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/-Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-* **Atuação:** Desenvolvo interfaces dinâmicas e responsivas, criando Single Page Applications (SPA's) e utilizando Server-Side Rendering (SSR) com Next.js. Meu foco é o gerenciamento de estado eficiente e a otimização de performance para uma experiência do usuário fluida.
+* **Atuação:** Desenvolvo interfaces dinâmicas e responsivas, criando Single Page Applications (SPA's) e utilizando Server-Side Rendering (SSR) com Next.js. Meu foco é o gerenciamento de estado eficiente e a otimização de performance para uma experiência do usuário fluida, utilizando tanto frameworks CSS como **Bootstrap** quanto abordagens mais personalizadas.
 
 ### <span style="color: #EE82EE;">Backend com Node.js & Express.js</span>
 
@@ -57,5 +57,28 @@ Ao longo da minha carreira, tive a oportunidade de desenvolver uma variedade de 
 * **Landing Pages de Alta Conversão:** Desenvolvo páginas otimizadas para performance e SEO, com foco em um design que estimule a conversão, essenciais para campanhas de tráfego pago.
 * **Sistemas de E-commerce:** Tenho experiência na construção de plataformas de e-commerce robustas, cobrindo desde a gestão de produtos e o processo de compra até a integração com sistemas de pagamento e ERPs.
 * **Tráfego Pago e Desempenho:** Entendo a importância de um site otimizado para o sucesso de campanhas de tráfego pago, garantindo que a arquitetura e a performance colaborem para altas taxas de conversão.
+
+---
+
+## <span style="color: #8A2BE2;">📊 Minha Jornada e Atividade no GitHub</span>
+
+Compartilho um pouco da minha atividade no GitHub, que reflete meu comprometimento e paixão por codificar. Essas visualizações se atualizam automaticamente, mostrando minha jornada e contribuições:
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ThatsTom&theme=react&hide_border=true)](https://github.com/ashishdotme/github-readme-activity-graph)
+
+[![GitHub Streak](https://github-profile-streak-stats.herokuapp.com/?user=ThatsTom&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ThatsTom&show_icons=true&theme=dark&hide_border=true&card_width=490&custom_title=Minhas%20Estatísticas%20GitHub)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ThatsTom&layout=compact&theme=synthwave&hide_border=true&card_width=490&custom_title=Top%20Linguagens%20(%20JavaScript%20&%20Mais!))](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## <span style="color: #9370DB;">✉️ Vamos Conectar!</span>
+
+Sempre busco novas oportunidades para aprender, colaborar e contribuir com projetos interessantes. Se você tem alguma ideia, desafio ou simplesmente quer trocar uma conversa sobre tecnologia, sinta-se à vontade para me contatar:
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThatsTom)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thomas_holanda@yahoo.com.br)
 
 ---
