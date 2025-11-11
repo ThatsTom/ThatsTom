@@ -1,4 +1,4 @@
-# <span style="color: #61DAFB;">&lt;Desenvolvedor Full Stack JavaScript /&gt;</span>
+# <span style="color: #61DAFB;">&lt;Desenvolvedor Nodejs /&gt;</span>
 ### <span style="color: #FF69B4;">Construindo Soluções Digitais com Paixão e Dedicação</span>
 
 ---
