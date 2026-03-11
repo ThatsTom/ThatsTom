@@ -5,7 +5,7 @@
 
 ## <span style="color: #00FFFF;">✨ Bem vindos! ✨</span>
 
-Olá! Eu sou o Tom, um **Desenvolvedor Full Stack JavaScript** entusiasmado em criar aplicações que resolvam desafios e tragam valor. Cada projeto é uma oportunidade para aprender, colaborar e construir soluções robustas e eficientes.
+Olá! Eu sou o Tom, um **Desenvolvedor JavaScript** entusiasmado em criar aplicações que resolvam desafios e tragam valor. Cada projeto é uma oportunidade para aprender, colaborar e construir soluções robustas e eficientes.
 
 Minha jornada no desenvolvimento é impulsionada pela curiosidade e pelo desejo de transformar ideias em experiências digitais significativas, sempre buscando as melhores práticas para garantir desempenho, escalabilidade e uma boa experiência para o usuário final.
 
