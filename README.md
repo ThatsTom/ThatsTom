@@ -343,15 +343,6 @@ Banco de dados relacional, SQL, modelagem lógica e relacional, normalização e
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=ThatsTom&theme=transparent&hide_border=true&locale=pt_BR" alt="GitHub streak" />
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThatsTom/ThatsTom/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ThatsTom/ThatsTom/output/github-contribution-grid-snake.svg" />
-  <img alt="Animação das contribuições do GitHub" src="https://raw.githubusercontent.com/ThatsTom/ThatsTom/output/github-contribution-grid-snake.svg" />
-</picture>
 
 </div>
 
