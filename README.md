@@ -1,61 +1,313 @@
-# <span style="color: #61DAFB;">&lt;Desenvolvedor Nodejs /&gt;</span>
-### <span style="color: #FF69B4;">Construindo Soluções Digitais com Paixão e Dedicação</span>
+<div align="center">
+
+# 👋 Olá, eu sou Thomas Holanda
+
+### Full Stack Developer • Inteligência Artificial • Automação de Processos
+
+**Transformo processos manuais em sistemas digitais, integrações e pipelines inteligentes.**
+
+[![GitHub](https://img.shields.io/badge/GitHub-ThatsTom-181717?style=for-the-badge&logo=github)](https://github.com/ThatsTom)
+
+</div>
 
 ---
 
-## <span style="color: #00FFFF;">✨ Bem vindos! ✨</span>
+## 🚀 Sobre mim
 
-Olá! Eu sou o Tom, um **Desenvolvedor JavaScript** entusiasmado em criar aplicações que resolvam desafios e tragam valor. Cada projeto é uma oportunidade para aprender, colaborar e construir soluções robustas e eficientes.
+Sou desenvolvedor **Full Stack** com foco crescente em **Inteligência Artificial, agentes inteligentes e automação de processos digitais**.
 
-Minha jornada no desenvolvimento é impulsionada pela curiosidade e pelo desejo de transformar ideias em experiências digitais significativas, sempre buscando as melhores práticas para garantir desempenho, escalabilidade e uma boa experiência para o usuário final.
+Meu principal objetivo ao desenvolver uma solução não é apenas criar uma interface ou uma API, mas entender o processo completo e transformá-lo em um fluxo digital mais simples, confiável e inteligente.
 
----
+Gosto de construir sistemas que conectam:
 
-## <span style="color: #FFD700;">🛠️ Minhas Ferramentas e Áreas de Atuação</span>
+```text
+Entrada de dados
+      ↓
+Validação e regras de negócio
+      ↓
+IA / interpretação / decisão
+      ↓
+Integrações e APIs
+      ↓
+Persistência de dados
+      ↓
+Automação de ações
+      ↓
+Monitoramento e melhoria contínua
+```
 
-Minha experiência em JavaScript me permite atuar em toda a stack, focando na flexibilidade e na construção de sistemas eficientes:
+Atualmente também curso **Tecnologia em Inteligência Artificial na FIAP**, utilizando **Python** em projetos de Machine Learning, análise de dados, cibersegurança cognitiva, IoT, engenharia de variáveis e construção de pipelines.
 
-### <span style="color: #39FF14;">Frontend com React.js</span>
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Styled Components](https://img.shields.io/badge/-Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-* **Atuação:** Desenvolvo interfaces dinâmicas e responsivas, criando Single Page Applications (SPA's) e utilizando Server-Side Rendering (SSR) com Next.js. Meu foco é o gerenciamento de estado eficiente e a otimização de performance para uma experiência do usuário fluida, utilizando tanto frameworks CSS como **Bootstrap** quanto abordagens mais personalizadas.
-
-### <span style="color: #EE82EE;">Backend com Node.js & Express.js</span>
-
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/-REST_API-00599C?style=for-the-badge&logo=rest&logoColor=white)
-![JWT](https://img.shields.io/badge/-JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
-
-* **Atuação:** Construo APIs RESTful seguras e escaláveis, implementando autenticação (JWT) e integrando com diversos serviços. Tenho experiência tanto em arquiteturas monolíticas quanto em sistemas de microsserviços.
-
-### <span style="color: #6A5ACD;">Gestão de Dados</span>
-
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-* **Atuação:** Trabalho com modelagem de dados e otimização de consultas em bancos de dados relacionais e não-relacionais, visando sempre a integridade e a performance das informações.
+> Meu maior interesse está na criação de **processos digitais inteligentes**, nos quais software, APIs, automações, dados e IA trabalham juntos para reduzir atividades manuais e tornar operações mais eficientes.
 
 ---
 
-## <span style="color: #F08080;">💡 Áreas de Atuação e Soluções Desenvolvidas</span>
+## 🎯 Principais áreas de atuação
 
-Ao longo da minha carreira, tive a oportunidade de desenvolver uma variedade de soluções digitais, sempre com o objetivo de entregar valor e performance:
-
-* **Monolitos e Microsserviços:** Consigo projetar e implementar arquiteturas monolíticas quando a simplicidade é a chave, ou decompor sistemas em microsserviços quando a escalabilidade e a modularidade são cruciais para o projeto.
-* **Intranets Corporativas:** Crio plataformas internas seguras e intuitivas, otimizando processos e a comunicação dentro de ambientes empresariais.
-* **Landing Pages de Alta Conversão:** Desenvolvo páginas otimizadas para performance e SEO, com foco em um design que estimule a conversão, essenciais para campanhas de tráfego pago.
-* **Sistemas de E-commerce:** Tenho experiência na construção de plataformas de e-commerce robustas, cobrindo desde a gestão de produtos e o processo de compra até a integração com sistemas de pagamento e ERPs.
-* **Tráfego Pago e Desempenho:** Entendo a importância de um site otimizado para o sucesso de campanhas de tráfego pago, garantindo que a arquitetura e a performance colaborem para altas taxas de conversão.
+- ⚙️ **Automação de processos digitais**
+- 🤖 **Agentes inteligentes e aplicações com LLMs**
+- 💬 **Automação de atendimento e operações via WhatsApp**
+- 🔗 **Integrações entre APIs, sistemas, ERPs e serviços externos**
+- 🧠 **Machine Learning e análise de dados com Python**
+- 🔄 **ETL, pipelines de dados e processamento automatizado**
+- 🌐 **Desenvolvimento Full Stack**
+- 🗄️ **Modelagem, persistência e automação de banco de dados**
+- ☁️ **Aplicações serverless, deploy e infraestrutura em nuvem**
 
 ---
+
+## 🤖 Inteligência Artificial & Automação
+
+Tenho direcionado meus projetos para soluções em que a IA participa ativamente do processo operacional.
+
+Entre os fluxos que venho desenvolvendo estão:
+
+- interpretação semântica de mensagens com **LLMs**;
+- agentes capazes de escolher e executar ferramentas;
+- coleta estruturada de dados durante conversas naturais;
+- transcrição e interpretação de áudio;
+- automação de atendimento via **WhatsApp Cloud API**;
+- regras comerciais combinadas com decisões da IA;
+- geração e atualização de pedidos;
+- integração entre atendimento, banco de dados e processos internos;
+- envio automático de solicitações para equipes responsáveis;
+- fluxos de aprovação e revisão de materiais;
+- handoff inteligente para atendimento humano;
+- webhooks, eventos, filas lógicas e processamento idempotente;
+- armazenamento de contexto e estado de conversação;
+- criação de pipelines que conectam múltiplos sistemas.
+
+Meu foco é usar IA como parte de uma **arquitetura de processo**, e não apenas como uma camada de chat.
+
+---
+
+# 🛠️ Stack
+
+## Linguagens
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+## Inteligência Artificial & Dados
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+
+## Backend & APIs
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-00599C?style=for-the-badge)
+![Webhooks](https://img.shields.io/badge/Webhooks-FF6C37?style=for-the-badge)
+
+## Frontend
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+## Dados, Cloud & Ferramentas
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![WhatsApp](https://img.shields.io/badge/WhatsApp_Cloud_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+
+---
+
+# ⭐ Projetos em destaque
+
+## 🤖 Agente inteligente de atendimento via WhatsApp — Samira V2
+
+Projeto de automação comercial que combina **OpenAI, WhatsApp Cloud API, Node.js, Supabase, webhooks e regras de negócio** para conduzir atendimentos reais de forma inteligente.
+
+O agente foi pensado como parte de um processo operacional completo, incluindo:
+
+- interpretação semântica das mensagens;
+- execução de ferramentas pela IA;
+- memória e estado persistente da conversa;
+- coleta de dados do cliente e da empresa;
+- criação e atualização de pedidos;
+- tratamento de múltiplos produtos em uma mesma negociação;
+- transcrição e interpretação de áudio;
+- envio de catálogo, preços e materiais;
+- integração com fluxo de criação de arte;
+- envio de solicitações para designer;
+- recebimento e entrega automática de amostras digitais;
+- solicitação de revisões de arte;
+- handoff para vendedores e operadores humanos;
+- histórico de mensagens e atividades em CRM;
+- idempotência para impedir ações duplicadas;
+- regras determinísticas protegendo decisões comerciais críticas.
+
+**Objetivo:** transformar uma conversa no WhatsApp em um pipeline digital capaz de movimentar diferentes áreas da empresa sem depender de processos manuais desconectados.
+
+> Projeto profissional privado em evolução contínua.
+
+---
+
+## 🌾 [AgriShield](https://github.com/ThatsTom/agrieshield-sompo)
+
+Plataforma desenvolvida para análise de risco em operações agrícolas.
+
+**Stack:** `Python` `FastAPI` `React` `Pandas` `NumPy` `Vite`
+
+O projeto integra diferentes fontes de dados climáticos e geoespaciais e transforma essas informações em indicadores de risco explicáveis.
+
+### Pipeline
+
+```text
+Cadastro da propriedade
+        ↓
+Coleta de dados externos
+        ↓
+ETL
+        ↓
+Engenharia de variáveis
+        ↓
+Cálculo de indicadores e riscos
+        ↓
+API FastAPI
+        ↓
+Dashboard React
+```
+
+Entre as integrações estão NASA POWER, Open-Meteo, INMET, MapBiomas e dados geoespaciais.
+
+---
+
+## 🧠 [Machine Learning — Classificação de Risco IoT](https://github.com/ThatsTom/sprint3-mlm)
+
+Projeto acadêmico desenvolvido na FIAP para construção e avaliação de modelos de Machine Learning aplicados à classificação de risco em dispositivos IoT.
+
+**Stack:** `Python` `Pandas` `NumPy` `Scikit-learn` `Jupyter` `Matplotlib`
+
+Principais etapas:
+
+- preparação e transformação dos dados;
+- `StandardScaler` e `OneHotEncoder`;
+- treinamento de Regressão Logística e Random Forest;
+- validação holdout;
+- Accuracy, Precision, Recall, F1 e AUC ROC;
+- tuning de hiperparâmetros com `GridSearchCV`;
+- interpretação através de `Permutation Importance`;
+- validação automatizada do projeto.
+
+---
+
+## 🛡️ [Cognitive Cybersecurity — IoT Risk Pipeline](https://github.com/ThatsTom/sprint3-cyber)
+
+Projeto em Python que implementa um pipeline completo para simulação, coleta, armazenamento, análise e classificação de risco de dispositivos IoT.
+
+```text
+IoT
+ ↓
+Servidor HTTP
+ ↓
+Validação
+ ↓
+Armazenamento
+ ↓
+Motor de risco
+ ↓
+Score
+ ↓
+JSON / CSV / Relatórios
+```
+
+O projeto inclui comunicação HTTP, API Key, validação de dados, armazenamento JSONL, regras de risco, testes automatizados e geração de relatórios.
+
+---
+
+# 🔄 Automação como arquitetura
+
+A área que mais me interessa é a construção de sistemas capazes de conectar processos que normalmente ficam separados.
+
+Exemplos:
+
+```text
+WhatsApp → IA → CRM → Banco de dados → Designer → Vendedor
+```
+
+```text
+ERP → API → Validação → Automação → Banco → Dashboard
+```
+
+```text
+Dados externos → ETL → Machine Learning → Score → Alerta → Interface
+```
+
+Procuro criar pipelines em que cada etapa tenha uma responsabilidade clara, regras de validação e possibilidade de monitoramento.
+
+---
+
+# 🎓 Formação em Inteligência Artificial
+
+### FIAP — Tecnologia em Inteligência Artificial
+
+Minha formação complementa a experiência em desenvolvimento Full Stack com projetos envolvendo:
+
+- Python aplicado à IA;
+- Machine Learning;
+- preparação e análise de dados;
+- modelagem e avaliação de modelos;
+- redes neurais;
+- cibersegurança cognitiva;
+- IoT;
+- engenharia de variáveis;
+- automação e pipelines de dados;
+- interpretação de resultados e métricas.
+
+Essa combinação entre **engenharia de software + automação + inteligência artificial** é a direção que venho aprofundando nos meus projetos.
+
+---
+
+# 💡 O que gosto de construir
+
+Soluções que eliminem tarefas repetitivas e conectem diferentes partes de uma operação:
+
+- agentes de IA orientados a ferramentas;
+- sistemas internos e plataformas corporativas;
+- automações entre APIs;
+- integrações com ERP e serviços externos;
+- dashboards operacionais;
+- pipelines de dados;
+- sistemas de atendimento inteligente;
+- ferramentas para equipes comerciais e administrativas;
+- processamento de grandes volumes de dados;
+- aplicações Full Stack orientadas a processos.
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+![Thomas GitHub stats](https://github-readme-stats.vercel.app/api?username=ThatsTom&show_icons=true&hide_border=true&locale=pt-br)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThatsTom&layout=compact&hide_border=true&langs_count=8)
+
+</div>
+
+---
+
+<div align="center">
+
+### Construindo sistemas que conectam pessoas, dados, software e inteligência artificial.
+
+**Full Stack • Python • AI • Agents • Automation • APIs • Data Pipelines**
+
+</div>
