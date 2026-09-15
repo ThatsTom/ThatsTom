@@ -30,25 +30,85 @@ Também curso **Tecnólogo em Inteligência Artificial na FIAP**, onde venho tra
 
 ---
 
-## Stack principal
+# Ferramentas e Tecnologias
 
-**Linguagens**  
-Python • JavaScript • TypeScript • SQL
+Esta é a stack que utilizo para construir aplicações, integrações, agentes inteligentes, pipelines de dados e automações de processos.
 
-**IA & Dados**  
-OpenAI API • Agentic AI • RAG • Embeddings • Busca Semântica • Pandas • NumPy • Scikit-learn • Jupyter • Matplotlib
+### Linguagens
 
-**Backend & Integrações**  
-Node.js • Express • FastAPI • Flask • REST APIs • Webhooks • WhatsApp Cloud API
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+  <img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+</p>
 
-**Frontend**  
-React • Next.js • Vite • HTML • CSS • Tailwind • Bootstrap
+### Backend & APIs
 
-**Banco & Cloud**  
-PostgreSQL • Supabase • Oracle Database • AWS EC2 • Amazon RDS • Amazon Aurora • Vercel
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge" alt="REST API" />
+  <img src="https://img.shields.io/badge/Webhooks-FF6C37?style=for-the-badge" alt="Webhooks" />
+</p>
 
-**Dados & Modelagem**  
-ETL • Feature Engineering • EDA • Modelagem Relacional • 3FN • Oracle Data Modeler • Pipelines de Dados
+### Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</p>
+
+### Bancos de Dados & Persistência
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+  <img src="https://img.shields.io/badge/Amazon_RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white" alt="Amazon RDS" />
+  <img src="https://img.shields.io/badge/Amazon_Aurora-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="Amazon Aurora" />
+</p>
+
+### Inteligência Artificial & Dados
+
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Agentic_AI-111827?style=for-the-badge" alt="Agentic AI" />
+  <img src="https://img.shields.io/badge/RAG-6D28D9?style=for-the-badge" alt="RAG" />
+  <img src="https://img.shields.io/badge/Embeddings-7C3AED?style=for-the-badge" alt="Embeddings" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib" />
+</p>
+
+### Cloud & Infraestrutura
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" alt="Amazon EC2" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+</p>
+
+### Integrações, Hardware & Desenvolvimento
+
+<p>
+  <img src="https://img.shields.io/badge/WhatsApp_Cloud_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Cloud API" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+**Conceitos e práticas:** ETL • EDA • Feature Engineering • Modelagem Relacional • 3FN • Oracle Data Modeler • Pipelines de Dados • APIs • Webhooks • Automação de Processos
 
 ---
 
@@ -332,19 +392,6 @@ Arquitetura de agentes, uso de ferramentas, tomada de decisão, memória, coorde
 
 **Banco de Dados Oracle**  
 Banco de dados relacional, SQL, modelagem lógica e relacional, normalização e manipulação de dados.
-
----
-
-## Atividade no GitHub
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThatsTom&theme=transparent" alt="GitHub activity graph" />
-
-<br/>
-
-
-</div>
 
 ---
 
