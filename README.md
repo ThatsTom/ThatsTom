@@ -206,6 +206,6 @@ Meu interesse está em sistemas que não apenas exibem informação, mas que **i
 
 <div align="center">
 
-### Full Stack • Python • AI • Agentic AI • RAG • Automation • AWS • Data Pipelines
+### Full Stack • Javascript • Typescript • Python • AI • Agentic AI • RAG • Automation • AWS • Data Pipelines
 
 </div>
