@@ -190,15 +190,6 @@ Fundamentos e utilização de bancos relacionais Oracle, SQL, estruturação e m
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThatsTom/ThatsTom/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ThatsTom/ThatsTom/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/ThatsTom/ThatsTom/output/github-contribution-grid-snake.svg" />
-</picture>
-
-<br/>
-<br/>
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThatsTom&theme=transparent" alt="GitHub activity graph" />
 
 </div>
