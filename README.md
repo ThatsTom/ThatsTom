@@ -26,7 +26,7 @@ Artificial Intelligence
 Process Automation
 ```
 
-Também curso **Tecnologia em Inteligência Artificial na FIAP**, aprofundando Python, Machine Learning, Data Science, Cloud, Redes Neurais e segurança aplicada à IA.
+Também curso **Tecnologo em Inteligência Artificial na FIAP**, aprofundando Python, Machine Learning, Data Science, Cloud, Redes Neurais e segurança aplicada à IA.
 
 ---
 
