@@ -188,9 +188,6 @@ Fundamentos e utilização de bancos relacionais Oracle, SQL, estruturação e m
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ThatsTom&hide_border=true&theme=transparent" alt="GitHub streak" />
-
-<br/>
 <br/>
 
 <picture>
