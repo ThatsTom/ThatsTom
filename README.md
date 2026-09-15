@@ -14,7 +14,7 @@
 
 ## 🚀 Sobre mim
 
-Sou desenvolvedor **Full Stack** com foco crescente em **Inteligência Artificial, agentes inteligentes e automação de processos digitais**.
+Sou desenvolvedor **Full Stack** com foco crescente em **Inteligência Artificial, agentes inteligentes, RAG e automação de processos digitais**.
 
 Meu principal objetivo ao desenvolver uma solução não é apenas criar uma interface ou uma API, mas entender o processo completo e transformá-lo em um fluxo digital mais simples, confiável e inteligente.
 
@@ -27,6 +27,8 @@ Validação e regras de negócio
       ↓
 IA / interpretação / decisão
       ↓
+Recuperação de conhecimento / RAG
+      ↓
 Integrações e APIs
       ↓
 Persistência de dados
@@ -38,7 +40,9 @@ Monitoramento e melhoria contínua
 
 Atualmente também curso **Tecnologia em Inteligência Artificial na FIAP**, utilizando **Python** em projetos de Machine Learning, análise de dados, cibersegurança cognitiva, IoT, engenharia de variáveis e construção de pipelines.
 
-> Meu maior interesse está na criação de **processos digitais inteligentes**, nos quais software, APIs, automações, dados e IA trabalham juntos para reduzir atividades manuais e tornar operações mais eficientes.
+Também possuo conhecimento em **AWS**, trabalhando com conceitos e serviços como **EC2, Amazon RDS e Amazon Aurora** para infraestrutura, execução de aplicações e persistência de dados em nuvem.
+
+> Meu maior interesse está na criação de **processos digitais inteligentes**, nos quais software, APIs, automações, dados, infraestrutura em nuvem e IA trabalham juntos para reduzir atividades manuais e tornar operações mais eficientes.
 
 ---
 
@@ -46,13 +50,14 @@ Atualmente também curso **Tecnologia em Inteligência Artificial na FIAP**, uti
 
 - ⚙️ **Automação de processos digitais**
 - 🤖 **Agentes inteligentes e aplicações com LLMs**
+- 🧩 **RAG, recuperação semântica e aplicações conectadas a bases de conhecimento**
 - 💬 **Automação de atendimento e operações via WhatsApp**
 - 🔗 **Integrações entre APIs, sistemas, ERPs e serviços externos**
 - 🧠 **Machine Learning e análise de dados com Python**
 - 🔄 **ETL, pipelines de dados e processamento automatizado**
 - 🌐 **Desenvolvimento Full Stack**
 - 🗄️ **Modelagem, persistência e automação de banco de dados**
-- ☁️ **Aplicações serverless, deploy e infraestrutura em nuvem**
+- ☁️ **AWS, aplicações serverless, deploy e infraestrutura em nuvem**
 
 ---
 
@@ -60,10 +65,14 @@ Atualmente também curso **Tecnologia em Inteligência Artificial na FIAP**, uti
 
 Tenho direcionado meus projetos para soluções em que a IA participa ativamente do processo operacional.
 
-Entre os fluxos que venho desenvolvendo estão:
+Entre os fluxos que venho desenvolvendo e estudando estão:
 
 - interpretação semântica de mensagens com **LLMs**;
 - agentes capazes de escolher e executar ferramentas;
+- arquiteturas **RAG (Retrieval-Augmented Generation)**;
+- recuperação de contexto em bases de conhecimento antes da geração da resposta;
+- uso de embeddings e busca semântica para contextualização de aplicações inteligentes;
+- construção de fluxos em que a IA responde apoiada por informações recuperadas de fontes específicas;
 - coleta estruturada de dados durante conversas naturais;
 - transcrição e interpretação de áudio;
 - automação de atendimento via **WhatsApp Cloud API**;
@@ -79,6 +88,28 @@ Entre os fluxos que venho desenvolvendo estão:
 
 Meu foco é usar IA como parte de uma **arquitetura de processo**, e não apenas como uma camada de chat.
 
+### RAG como parte da arquitetura
+
+Tenho conhecimento na construção conceitual de fluxos em que documentos, dados ou informações internas são recuperados antes da geração da resposta pelo modelo:
+
+```text
+Documentos / Dados / Conhecimento
+            ↓
+   Preparação e chunking
+            ↓
+        Embeddings
+            ↓
+ Recuperação semântica
+            ↓
+ Contexto relevante para a LLM
+            ↓
+      Resposta / Decisão
+            ↓
+        Ação no sistema
+```
+
+Esse modelo é especialmente útil para agentes internos, atendimento inteligente, consulta a documentação, bases comerciais, procedimentos e sistemas corporativos.
+
 ---
 
 # 🛠️ Stack
@@ -93,6 +124,8 @@ Meu foco é usar IA como parte de uma **arquitetura de processo**, e não apenas
 ## Inteligência Artificial & Dados
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-6C5CE7?style=for-the-badge)
+![Embeddings](https://img.shields.io/badge/Embeddings-Semantic_Search-8E44AD?style=for-the-badge)
 ![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -117,14 +150,31 @@ Meu foco é usar IA como parte de uma **arquitetura de processo**, e não apenas
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-## Dados, Cloud & Ferramentas
+## Banco de Dados
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Amazon RDS](https://img.shields.io/badge/Amazon_RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white)
+![Amazon Aurora](https://img.shields.io/badge/Amazon_Aurora-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+## Cloud, Infraestrutura & Ferramentas
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Amazon EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![WhatsApp](https://img.shields.io/badge/WhatsApp_Cloud_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+
+### AWS
+
+Tenho conhecimento em componentes importantes de uma arquitetura AWS, principalmente:
+
+- **Amazon EC2** — execução e hospedagem de aplicações e serviços em instâncias virtuais;
+- **Amazon RDS** — bancos de dados relacionais gerenciados;
+- **Amazon Aurora** — banco relacional gerenciado e compatível com engines amplamente utilizadas;
+- conexão entre aplicações, APIs e bancos executados em infraestrutura de nuvem;
+- organização de ambientes de backend pensando em persistência, disponibilidade e evolução da aplicação.
 
 ---
 
@@ -250,6 +300,14 @@ ERP → API → Validação → Automação → Banco → Dashboard
 Dados externos → ETL → Machine Learning → Score → Alerta → Interface
 ```
 
+```text
+Documentos → Embeddings → Busca semântica → RAG → LLM → Resposta / Ação
+```
+
+```text
+Aplicação → API → AWS EC2 → RDS / Aurora → Serviços e automações
+```
+
 Procuro criar pipelines em que cada etapa tenha uma responsabilidade clara, regras de validação e possibilidade de monitoramento.
 
 ---
@@ -271,7 +329,9 @@ Minha formação complementa a experiência em desenvolvimento Full Stack com pr
 - automação e pipelines de dados;
 - interpretação de resultados e métricas.
 
-Essa combinação entre **engenharia de software + automação + inteligência artificial** é a direção que venho aprofundando nos meus projetos.
+Paralelamente, venho aprofundando conhecimentos em **LLMs, agentes inteligentes, RAG e arquiteturas de aplicações de IA conectadas a dados e sistemas corporativos**.
+
+Essa combinação entre **engenharia de software + cloud + automação + dados + inteligência artificial** é a direção que venho aprofundando nos meus projetos.
 
 ---
 
@@ -280,6 +340,8 @@ Essa combinação entre **engenharia de software + automação + inteligência a
 Soluções que eliminem tarefas repetitivas e conectem diferentes partes de uma operação:
 
 - agentes de IA orientados a ferramentas;
+- aplicações e agentes utilizando RAG;
+- sistemas de consulta inteligente a bases de conhecimento;
 - sistemas internos e plataformas corporativas;
 - automações entre APIs;
 - integrações com ERP e serviços externos;
@@ -288,7 +350,8 @@ Soluções que eliminem tarefas repetitivas e conectem diferentes partes de uma 
 - sistemas de atendimento inteligente;
 - ferramentas para equipes comerciais e administrativas;
 - processamento de grandes volumes de dados;
-- aplicações Full Stack orientadas a processos.
+- aplicações Full Stack orientadas a processos;
+- backends e bancos de dados executados em infraestrutura de nuvem.
 
 ---
 
@@ -306,8 +369,8 @@ Soluções que eliminem tarefas repetitivas e conectem diferentes partes de uma 
 
 <div align="center">
 
-### Construindo sistemas que conectam pessoas, dados, software e inteligência artificial.
+### Construindo sistemas que conectam pessoas, dados, software, cloud e inteligência artificial.
 
-**Full Stack • Python • AI • Agents • Automation • APIs • Data Pipelines**
+**Full Stack • Python • AI • RAG • Agents • Automation • AWS • APIs • Data Pipelines**
 
 </div>
