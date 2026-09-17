@@ -16,6 +16,8 @@ Atuo no desenvolvimento de soluções de ponta a ponta, com maior foco em **auto
 
 Tenho experiência prática com **Node.js, React, TypeScript, Python, Supabase, PostgreSQL, AWS e APIs**, além de projetos envolvendo **LLMs, Agentic AI, RAG, Machine Learning, pipelines de dados e automação de atendimento via WhatsApp**.
 
+Meu principal projeto é o **Atalanta**, uma intranet corporativa e plataforma interna modular criada para centralizar comunicação, informações, sistemas e automações de diferentes áreas da empresa em um único ambiente altamente personalizável e escalável.
+
 Atualmente curso **Tecnologia em Inteligência Artificial na FIAP**, aprofundando conhecimentos em Machine Learning, Data Science, Cloud Computing, Redes Neurais, Cibersegurança, IoT e Estatística Computacional.
 
 **Áreas de interesse:** Software Engineering • Artificial Intelligence • Agentic AI • Automation • Cloud • Data Pipelines
@@ -89,6 +91,40 @@ EC2 • RDS • Aurora • Deploy • APIs externas • IoT • Integrações co
 ---
 
 ## Projetos selecionados
+
+### Atalanta — Plataforma corporativa e intranet modular | Projeto principal
+
+Principal projeto do meu portfólio e a solução em que concentrei a maior parte do meu trabalho de arquitetura e evolução de produto.
+
+O **Atalanta** foi concebido como uma plataforma interna capaz de centralizar a operação digital da empresa: comunicação entre áreas, informações, ferramentas, solicitações, fluxos internos, integrações e automações passam a coexistir dentro de um único ambiente.
+
+A arquitetura prioriza **modularidade, personalização e escalabilidade**, permitindo que novos processos sejam incorporados conforme a operação evolui, sem limitar a plataforma a um único departamento ou caso de uso.
+
+**Principais conceitos do projeto:**
+
+- central de informações e comunicação corporativa;
+- módulos adaptáveis às necessidades de diferentes áreas da empresa;
+- digitalização de processos antes executados de forma manual ou fragmentada;
+- formulários, fluxos operacionais, notificações e automações integrados;
+- integração entre banco de dados, APIs, webhooks e serviços externos;
+- controle de acesso e experiências diferentes conforme perfil e responsabilidade do usuário;
+- arquitetura preparada para receber novas ferramentas e processos digitais;
+- redução de retrabalho e concentração do contexto operacional em um único ambiente;
+- evolução contínua para funcionar como uma camada central entre pessoas, dados, sistemas e automações.
+
+```text
+Colaboradores / Áreas
+        ↓
+      Atalanta
+        ↓
+Comunicação • Informação • Processos • Dados
+        ↓
+APIs • Webhooks • Banco de Dados • Automações
+        ↓
+Sistemas internos e serviços externos
+```
+
+> **Repositório privado.** O projeto representa minha principal experiência prática em arquitetura de sistemas internos, integração entre áreas e construção de processos digitais escaláveis.
 
 ### Samira V2 — Agente de atendimento e automação comercial
 
