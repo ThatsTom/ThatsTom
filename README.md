@@ -14,7 +14,7 @@ Desenvolvedor focado em **automação de processos digitais, aplicações Full S
 
 Atuo no desenvolvimento de soluções de ponta a ponta, com maior foco em **automação de processos**, integrações entre sistemas e aplicações orientadas por IA.
 
-Tenho experiência prática com **Node.js, React, TypeScript, Python, Supabase, PostgreSQL, AWS e APIs**, além de projetos envolvendo **LLMs, Agentic AI, RAG, Machine Learning, pipelines de dados e automação de atendimento via WhatsApp**.
+Tenho experiência prática com **Node.js, NestJS, React, Angular, TypeScript, Python, Supabase, PostgreSQL, Prisma ORM, Docker, Docker Compose, AWS e APIs**, além de projetos envolvendo **LLMs, Agentic AI, RAG, Machine Learning, pipelines de dados e automação de atendimento via WhatsApp**.
 
 Meu principal projeto é o **Atalanta**, uma intranet corporativa e plataforma interna modular criada para centralizar comunicação, informações, sistemas e automações de diferentes áreas da empresa em um único ambiente altamente personalizável e escalável.
 
@@ -30,6 +30,7 @@ Atualmente curso **Tecnologia em Inteligência Artificial na FIAP**, aprofundand
 
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
@@ -43,10 +44,13 @@ REST APIs • Webhooks • Integrações • Automações • Arquiteturas orien
 
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS" />
 </p>
 
 Interfaces responsivas • Dashboards • Sistemas internos • Aplicações orientadas a processos
@@ -55,6 +59,7 @@ Interfaces responsivas • Dashboards • Sistemas internos • Aplicações ori
 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Prisma_ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma ORM" />
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
   <img src="https://img.shields.io/badge/Amazon_RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white" alt="Amazon RDS" />
@@ -62,6 +67,15 @@ Interfaces responsivas • Dashboards • Sistemas internos • Aplicações ori
 </p>
 
 SQL • Modelagem Relacional • Normalização • Persistência • Integração de dados
+
+### Containers & Ambiente de Desenvolvimento
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Compose" />
+</p>
+
+Containers • Docker Compose • Persistência em volumes • Configuração de ambientes
 
 ### Inteligência Artificial & Dados
 
@@ -180,6 +194,6 @@ Busco desenvolver soluções que combinem **Engenharia de Software, Inteligênci
 
 <div align="center">
 
-**Full Stack • JavaScript • TypeScript • Python • AI • Agentic AI • RAG • Automation • AWS**
+**Full Stack • JavaScript • TypeScript • Python • Angular • NestJS • Docker • AI • Agentic AI • RAG • Automation • AWS**
 
 </div>
