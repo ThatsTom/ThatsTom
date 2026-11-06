@@ -1,6 +1,7 @@
 Hey! Eu sou o Tom 👋
 Desenvolvedor Full Stack com foco em aplicações web, integrações e automação de processos. Trabalho com JavaScript, TypeScript, Python e soluções de inteligência artificial. Atualmente curso Tecnologia em Inteligência Artificial na FIAP.
 Tecnologias que trabalho nos meus projetos
+
 Backend
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" />
